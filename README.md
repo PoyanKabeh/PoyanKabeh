@@ -5,12 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with Harward
+## 🔭 I’m currently working on Python
+## 🌱 I’m currently learning Python
+## 👯 I’m looking to collaborate on Youtube
+## 🤔 I’m looking for help with Harward
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: Ha ha ha
-- ⚡ Fun fact: Im Human
+## ⚡ Fun fact: Im Human
+
+## My Links :
+    # Twitter : https://twitter.com/mrkabeh
+    # Instagram : https://instagram.com/poykabeh
 -->
